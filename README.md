@@ -1,4 +1,4 @@
-# Repositório: TiposPrimitivos
+# Repositório: JavaAlura-TiposPrimitivos
 
 Este repositório contém um exemplo de código Java que demonstra os tipos primitivos da linguagem.
 
